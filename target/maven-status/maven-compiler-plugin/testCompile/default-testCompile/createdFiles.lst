@@ -1,0 +1,10 @@
+Steps\CommonSteps.class
+Actions\SauceDemo_AllItems_Actions.class
+Elements\Common_Elements.class
+Steps\SauceDemo_IndividualItems.class
+Actions\Common_Actions.class
+Elements\SauceDemo_IndividualItems_Elements.class
+Test\TestRunner.class
+Steps\SauceDemo_AllItems.class
+Actions\SauceDemo_IndividualItems_Actions.class
+Elements\SauceDemo_AllItems_Elements.class
