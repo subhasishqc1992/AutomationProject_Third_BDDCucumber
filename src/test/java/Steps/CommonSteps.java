@@ -21,7 +21,7 @@ public class CommonSteps {
 	
 	@Before
 	public void SetUp() {
-		System.setProperty("webdriver.gecko.driver", "C:\\eclipse\\Eclipse_Workspace_New\\BDDCucumber\\Drivers\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", ".\\Drivers\\geckodriver.exe");
 	    driver = new FirefoxDriver();
 	    driver.manage().window().maximize();
 	    driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
